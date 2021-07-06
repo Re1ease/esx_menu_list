@@ -22,7 +22,7 @@
 .menu {
 	font-family: 'Poppins', sans-serif;
 	position: absolute;
-	left: 100%;
+	left: 50%;
 	top: 50%;
 	transform: translate(-50%, -50%);
 	overflow-y: auto;
