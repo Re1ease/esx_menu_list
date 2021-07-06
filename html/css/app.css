@@ -40,7 +40,7 @@
 	background: #008cd4;
 	color: white;
 	animation: moveInBottom 1s ease-in-out;
-  animation-fill-mode: forwards;
+        animation-fill-mode: forwards;
 }
 
 .menu button:hover {
